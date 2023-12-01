@@ -24,15 +24,16 @@ with cols[1].expander("Trading Music 2:"):
 # st.markdown("")
 
 # Display the list of tabs in markdown manually
+
 st.markdown("### Click on one of the Tabs below:")
-st.markdown("1- User Guide")
-st.markdown("2- Companies in SP500")
-st.markdown("3- Closing Price")
-st.markdown("4- Making Informed Decision")
-st.markdown("5- Stock Trend Analysis & Prediction")
-st.markdown("6- Your Stock vs SP500")
-st.markdown("7- References")
-st.markdown("8- Bio (Author)")
+st.markdown("1- **User Guide**: Explore how to use the app efficiently and navigate through its features.")
+st.markdown("2- **Companies in SP500**: View a list of S&P 500 companies and explore them sectorwise.")
+st.markdown("3- **Closing Price**: Analyze historical closing prices for selected companies in the S&P 500.")
+st.markdown("4- **Making Informed Decision**: Visualize various analysis options to make informed trading decisions.")
+st.markdown("5- **Stock Trend Analysis & Prediction**: Utilize advanced regression tools to predict stock trends.")
+st.markdown("6- **Your Stock vs SP500**: Compare the performance of your selected stock with the SP500 through regression and correlation.")
+st.markdown("7- **References**: Find references and resources used for this app.")
+st.markdown("8- **Bio (Author)**: Learn more about the author of this Stock Pulse Analyzer app.")
 
 ####################################################################################################################################################################
 tab1, tab2 , tab3 , tab4 ,tab5 , tab6 , tab7 , tab8 = st.tabs(["User Guide","Companies SP500", "Closing Price", "Informed Decision","Stock Prediction","Stock vs SP500","Ref","Bio"])
