@@ -805,8 +805,8 @@ with tab8:
         Hello! 👋 I'm Arsh Ahtsham, the author of this Streamlit app. 
         I am a graduate student at the Michigan State University pursuing my Masters in Electrical and Computer Engineering. I'm passinate about Data Visualisation and Machine learning. Other areas of Interest : System Design, Sensor Integration, Circuit design, Embedded Control, Internet of Things, Edge AI.
 
-        * **LinkedIn:** [Arsh's Linkedin](https://www.linkedin.com/in/arshahtsham321/)
-        * **GitHub:** [Arsh's Github](https://github.com/arshahtsham)
+        * [Arsh's Linkedin](https://www.linkedin.com/in/arshahtsham321/)
+        * [Arsh's Github](https://github.com/arshahtsham)
 
         If you have any questions or feedback, feel free to reach out! 😊 @ ahtshama@msu.edu
 
