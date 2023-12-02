@@ -623,7 +623,7 @@ with tab5:
 
     # Display the rounded predicted and current prices with emphasis on "days" and "stock price"
     st.markdown(f'##### Predicted Stock Price for <span style="color:green">{num_days_in_future} days</span> in the future: <span style="color:green">{rounded_predicted_price} stock price</span>', unsafe_allow_html=True)
-    st.markdown(f'##### Current Stock Price is: <span style="color:blue">{rounded_current_price} stock price</span>', unsafe_allow_html=True)
+    # st.markdown(f'##### Current Stock Price is: <span style="color:blue">{rounded_current_price} stock price</span>', unsafe_allow_html=True)
 
 
     st.markdown("""
