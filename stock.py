@@ -11,7 +11,7 @@ from PIL import Image
 import datetime as dt
 
 st.title('Stock Pulse Analyzer')
-st.subheader('Stock price analysis and prediction app by Arsh Ahtsham')
+st.subheader('Stock price analysis and prediction app by [Arsh Ahtsham](https://www.linkedin.com/in/arshahtsham321/)')
 
 st.image("https://www.investopedia.com/thmb/ASStR21rMu9-9_nj1x07H83zbUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-stock-market-data-on-digital-display-1058454392-c48e2501742f4c21ad57c25d6a087bd0.jpg", use_column_width=True)
 
@@ -805,8 +805,8 @@ with tab8:
         Hello! 👋 I'm Arsh Ahtsham, the author of this Streamlit app. 
         I am a graduate student at the Michigan State University pursuing my Masters in Electrical and Computer Engineering. I'm passinate about Data Visualisation and Machine learning. Other areas of Interest : System Design, Sensor Integration, Circuit design, Embedded Control, Internet of Things, Edge AI.
 
-        * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arshahtsham321/)
-        * **GitHub:** [Your GitHub Profile](https://github.com/arshahtsham)
+        * **LinkedIn:** [Arsh's Linkedin](https://www.linkedin.com/in/arshahtsham321/)
+        * **GitHub:** [Arsh's Github](https://github.com/arshahtsham)
 
         If you have any questions or feedback, feel free to reach out! 😊 @ ahtshama@msu.edu
 
