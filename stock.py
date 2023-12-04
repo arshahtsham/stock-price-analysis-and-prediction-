@@ -611,10 +611,14 @@ with tab5:
 
     # Predict stock price for the future date using the regression model
     predicted_price = np.polyval(reg, future_time_value)
-    current_price = np.polyval(reg, len(data))
+    # current_price = np.polyval(reg, len(data))
 
     # Round the predicted and current prices to two decimal places
     rounded_predicted_price = round(predicted_price, 2)
+    # rounded_current_price = round(current_price, 2)
+
+    # Get the last available close price as the current price
+    current_price = data['Close'].iloc[-1]
     rounded_current_price = round(current_price, 2)
 
     # # Display the rounded predicted and current prices
